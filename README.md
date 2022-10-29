@@ -12,12 +12,12 @@ https://public.tableau.com/app/profile/baby.indra.nandagopal/viz/Tableau_BikeRid
 
 1. Overall Trip Details
 
-Total number of records were `1.3 mllions - 629K in 2021 and 682K in 2022(Till Sep)`. Number of Bike rides in 2021 is lower than 2022 for all the months. This could be due to Covid lockdown and restrictions in 2021.
+Total number of records were `1.3 millions - 629K in 2021 and 682K in 2022(Till Sep)`. Number of Bike rides in 2021 is lower than 2022 for all the months. This could be due to the Covid lockdown and restrictions in New York city in 2021.
 `2021:` September had the highest number of Bike rides and February had the lowest number of bike rides.
 `2022:` August had the highest Bike rides and Jan had the lowest bike rides.
 People seem to ride more bikes in the summer than in the winter. The possible reason could be that people are not willing to ride outside in winter due to the cold weather. 
 
-![Overall Trip Details](Images/Overall_Trip_Details.PNG)
+![Overall Trip Details](Tableau-BikeRide-Visualization\Images\Overall_Trip_Details.PNG)
 
 2.  Top ten Stations
 Top ten stations for both ending and starting a journey are Grove St PATH, South waterfront walkway - Sinatra Dr & 1st, and Hoboken Terminal - Hudson St & Hudson Pl.
