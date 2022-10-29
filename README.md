@@ -17,29 +17,29 @@ Total number of records were `1.3 millions - 629K in 2021 and 682K in 2022(Till 
 `2022:` August had the highest Bike rides and Jan had the lowest bike rides.
 People seem to ride more bikes in the summer than in the winter. The possible reason could be that people are not willing to ride outside in winter due to the cold weather. 
 
-![Overall Trip Details](Tableau-BikeRide-Visualization\Images\Overall_Trip_Details.PNG)
+![Overall Trip Details](Images/Overall_Trip_Details.png)
 
 2.  Top ten Stations
 Top ten stations for both ending and starting a journey are Grove St PATH, South waterfront walkway - Sinatra Dr & 1st, and Hoboken Terminal - Hudson St & Hudson Pl.
 
-![Top 10 stations](Images/Top_10_Stations.PNG)
+![Top 10 stations](Images/Top_10_Stations.png)
 
 3.  Bottom 10 Stations
 
-![Bottom 10 stations](Images/Bottom_10_Stations.PNG)
+![Bottom 10 stations](Images/Bottom_10_Stations.png)
 
 4.  Peak Hours
 17:00-19:00 seems to be the peak hours for riders in both the years 2021 & 2022 in the Summer.
 8 AM and 16:00-18:00 seem to be the peak hours for riders in both the years 2021 & 2022 in Winter.
 More people ride bikes in the summer than in the winter months.
 
-![Peak Hours](Images/Peak_Hours.PNG)
+![Peak Hours](Images/Peak_Hours.png)
 
 5.  Map - Popular Start Stations
 
-![Map Popular Start Stations](Images/Map_Popular_Start_Stations.PNG)
+![Map Popular Start Stations](Images/Map_Popular_Start_Stations.png)
 
 6.  Map - Popular End Stations
 
-![Map Popular End Stations](Images/Map_Popular_End_Stations.PNG)
+![Map Popular End Stations](Images/Map_Popular_End_Stations.png)
 
